@@ -5,6 +5,8 @@ public class App {
         //comentário exibido na branch main
         System.out.println("alteração feita na Branch 'Alteração'");
 
+        //terminei as alterações na branch Altercao
+
         Scanner s = new Scanner(System.in);
         System.out.print("Indique o nome do professor: ");
         String nome = s.nextLine();
