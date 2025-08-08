@@ -3,6 +3,9 @@ public class App {
     public static void main(String args[]){
 
         //comentário exibido na branch main
+        System.out.println("alteração feita na Branch 'Alteração'");
+
+        //terminei as alterações na branch Altercao
         //Bug resolvido
 
         Scanner s = new Scanner(System.in);
