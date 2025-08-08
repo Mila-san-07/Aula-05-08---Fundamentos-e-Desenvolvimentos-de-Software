@@ -1,6 +1,9 @@
 import java.util.Scanner;
 public class App {
     public static void main(String args[]){
+
+        //comentário exibido na branch main
+
         Scanner s = new Scanner(System.in);
         System.out.print("Indique o nome do professor: ");
         String nome = s.nextLine();
